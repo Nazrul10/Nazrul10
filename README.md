@@ -1,13 +1,11 @@
 ## Hey, This is Nazrul Islam
 ![](https://i.ibb.co/6rKM3XN/Welcome-Back-to-Sandy-Spring.png)
 
-
-Skills: JavaScript, ES6, React JS, HTML5, CSS3, Bootstrap5, React Router, Context API, React Hook, Firebase Authentication, Material UI, MongoDB, Node JS, Express JS
-
 - 👑 I am Web Developer 
 - 😍 Love to write code 
 - 👌 Like to learn new 
-
+- 
+Skills: JavaScript, ES6, React JS, HTML5, CSS3, Bootstrap5, React Router, Context API, React Hook, Firebase Authentication, Material UI, MongoDB, Node JS, Express JS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Nazrul10/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nazrul10//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/prince.nil200)  
 
