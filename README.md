@@ -1,4 +1,4 @@
-### Hi there 👋, Hey, This is Nazrul Islam
+## Hey, This is Nazrul Islam
 ![](https://i.ibb.co/6rKM3XN/Welcome-Back-to-Sandy-Spring.png)
 
 
