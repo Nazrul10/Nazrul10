@@ -6,7 +6,7 @@ Skills: JavaScript, ES6, React JS, HTML5, CSS3, Bootstrap5, React Router, Contex
 
 - 👑 I am Web Developer 
 - 😍 Love to write code 
--👌 Like to learn new 
+- 👌 Like to learn new 
 
 ![Profile views](https://gpvc.arturio.dev/Nazrul10)  
 
