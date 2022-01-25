@@ -4,9 +4,9 @@
 
 Skills: JavaScript, ES6, React JS, HTML5, CSS3, Bootstrap5, React Router, Context API, React Hook, Firebase Authentication, Material UI, MongoDB, Node JS, Express JS
 
-- 🔭 I’m currently working on  I am Web Developer 
-- 🌱 I’m currently learning Love to write code 
-- 👯 I’m looking to collaborate on Like to learn new 
+- 👑 I am Web Developer 
+- 😍 Love to write code 
+-👌 Like to learn new 
 
 ![Profile views](https://gpvc.arturio.dev/Nazrul10)  
 
